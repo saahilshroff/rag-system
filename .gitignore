@@ -1,0 +1,4 @@
+# .gitignore
+secret_key.py
+Untitled-1.ipynb
+.vscode/
