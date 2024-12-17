@@ -2,7 +2,7 @@
 This project Knowledge Retrieval-Augmented Generation (RAG) system combines information retrieval and generative AI to provide accurate, context-aware responses by retrieving relevant data before generating output.
 
 ## Demo
-![Demo of Knowledge Retrieval-Augmented Generation](/assests/demo.gif)
+![Demo of Knowledge Retrieval-Augmented Generation](assets/demo.gif)
 
 ## Features
 
